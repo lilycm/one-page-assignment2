@@ -1,0 +1,180 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+/* this is first section */
+.donate{
+    background-image: url(/images/pexels-pixabay-70336\ \(1\).jpg);
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 300px;
+    text-align: center;
+    color: white;
+    margin-left: 0;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 10px 0.25);
+
+}
+
+.heading{
+    text-align: center;
+    font-size: 40px;
+    margin: 0;
+}
+.link1{
+    background-image:linear-gradient(orange , tomato);
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 10px 25px;
+    font-size: 30px;
+    color: white;
+}
+/* This is second section */
+#p{
+    font-size: medium;
+    padding-right: 350px;
+    padding-left: 350px;
+}
+.tk{
+    background-image:linear-gradient(rgb(231, 217, 217));
+    padding: 50px;
+    font-size: 20px;
+    border: 0ch;
+    border-radius: 5px;
+}
+.tk:hover{
+    background-color: rgb(6, 185, 126);
+}
+    
+.tk-border{
+    background-color: rgb(219, 152, 152);
+    padding: 50px;
+    border: 2px solid rgb(240, 42, 42);
+    font-size: 20px;
+    border-radius: 5px;
+}
+.tk-border:hover{
+    background-color: rgb(8, 218, 148);
+    
+}
+#input{
+    border: 0ch;
+}
+#hr{
+   margin-left: 20%;
+   margin-right: 20%;
+}
+.button{
+    text-align: center;
+}
+
+/* This is third section */
+.donate-plan{
+   text-align: center;
+}
+.plan{
+    display: flex;
+    text-align: left;
+}
+#plan1{
+   background-color: rgb(219, 219, 240);
+   margin: 0% 2% 5% 2%;
+   border-radius: 5px;
+   padding: 3% 2% 3% 2%;
+   text-align: left;
+}
+#plan2{
+    background-color: rgb(174, 238, 238);
+    margin: 0% 2% 5% 0%;
+    border-radius: 5px;
+    padding: 3% 5% 3% 5%;
+    text-align: left;
+}
+
+#plan3{
+    margin: 0% 2% 5% 0%;
+    border-radius: 5px;
+    background-color: rgb(222, 222, 231);
+    padding: 3% 5% 3% 5%;
+    text-align: left;
+}
+.h2-p{
+    text-align: left;
+}
+.icon{
+    text-align: left;
+}
+/* this is forth section */
+.sec4{
+    display: flex;
+}
+#images{
+    height:400px;
+    width:500px;
+
+}
+#images2{
+    height: 380px;
+    width: 550px;
+    padding-left: 10%;
+}
+#p-h1{
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 2%;
+}
+/* this is fifth section */
+.sec5{
+    display: flex;
+}
+#section-5{
+    text-align: left;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 5%;
+}
+.link2{
+    text-decoration: none;
+    background-image:linear-gradient(orange , tomato);
+    border-radius: 5px;
+    padding: 5px 15px;
+    font-size: 20px;
+    color: white;
+} 
+/* this is sixth section */
+.sec-6{
+   text-align: center;
+}
+.email{
+    border: 0ch;
+    background-color: rgb(233, 228, 222);
+    border-radius: 3px 0px 0px 3px;
+    padding: 15px 25px;
+    color: rgb(190, 190, 190);
+}
+#button{
+    border: 0ch;
+    border-radius:0px 5px 5px 0px ;
+    padding: 15px 20px;
+    color: white;
+    background-color: rgb(231, 119, 14);
+}
+.background{
+    background-color: rgb(193, 148, 235);
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    border-radius: 3px;
+
+}
+footer{
+    text-align: center;
+    background-color: rgb(4, 4, 63);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: beige;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+    
